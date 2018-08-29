@@ -1,0 +1,24 @@
+body {
+  background: whitesmoke;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hiiden;
+}
+
+div {
+  display: none;
+  width: 20vw;
+  height: auto;
+  background-color: white;
+  bottom: 40%;
+  left: 0;
+  border: 1px solid black;
+  position: fixed;
+  font-family: "Wire One", sans-serif;
+  font-size: 1em;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  letter-spacing: 2px;
+  padding-left: 1vw;
+  line-break: 10px;
+}
