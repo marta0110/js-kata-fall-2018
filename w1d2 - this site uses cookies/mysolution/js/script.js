@@ -8,7 +8,8 @@ function displayCookie() {
 
 function hide() {
   cookies.style.display = "none";
-  localStorage.setItem("click", "true"); //store state in localStorage
+  localStorage.setItem("click", "true"); 
+  //store state in localStorage
 }
 
 window.onload = function() {
