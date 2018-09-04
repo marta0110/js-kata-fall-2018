@@ -1,3 +1,6 @@
+
+
+
 window.addEventListener("load", () => {
   const template = document.querySelector("#template").content;
   main = document.querySelector("main");
